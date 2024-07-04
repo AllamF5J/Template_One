@@ -7,6 +7,10 @@
 
 Welcome to the **Template One** project repository! This is a complete website template designed using HTML and CSS, inspired by the [Leon PSD Agency Template](https://www.graphberry.com/item/leon-psd-agency-template#google_vignette) and built following the tutorials from Elzero Web School.
 
+## 📸 Preview
+
+![Template One Screenshot](https://github.com/AllamF5J/Template_One/blob/main/%E2%80%AALeon.png)
+
 ## 🌟 About This Project
 
 **Template One** is a beginner-friendly, comprehensive website template that focuses on the following aspects:
@@ -58,9 +62,6 @@ You can get icons from [Font Awesome](https://fontawesome.com/search?o=r&m=free)
 ```html
 <i class="fas fa-star"></i>
 ```
-## 📸 Preview
-
-![Template One Screenshot](https://github.com/AllamF5J/Template_One/blob/main/%E2%80%AALeon.png)
 
 ## 🤝 Contributions
 
