@@ -263,12 +263,6 @@ body {
   text-align: center;
 }
 
-@media(max-width: 767px) {
-  .features .feat {
-    box-shadow: 0px -10px 5px -10px #777 inset;
-  }
-}
-
 .features .feat i {
   color: var(--main-color);
 }
@@ -331,12 +325,6 @@ body {
   .services .services-content .srv {
     flex-direction: column;
     text-align: center;
-  }
-}
-
-@media (max-width: 670px) {
-  .services .services-content .srv {
-    box-shadow: 0px -10px 5px -10px #777 inset;
   }
 }
 
